@@ -1,1 +1,2 @@
 # agrinho-2026
+Com a finalidade de criar um site descomplicado, utilizei o IA Gloogle Gemini, utilizando o sguinte prompt: "estou faazendo um projeto para o agrinho 2026 (programação), me ajude a criar um código simples e organizado separando HTML, CSS e JS". logo. fui para o Github me cadastrei, e criei meu relatório.Fui para o Vscode.dev e copiei os comandos de acordo como o Gemini, assim, concluindo meu projeto.
